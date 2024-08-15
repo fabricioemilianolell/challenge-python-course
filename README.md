@@ -1,4 +1,4 @@
-Parte del Curso sobre Python instructor moureDev 
+Curso sobre Python - instructor moureDev 
 Desafios o challenge simples
 
 # el famoso fizz buzz
