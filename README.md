@@ -20,7 +20,7 @@ Escribe una funcion que reciba dos palabras(String) y retorne verdadero o falso(
 - Dos palabras exactamente iguales no son anagrama
 """
 
-#Sucesión de Fibonacci
+# Sucesión de Fibonacci
 """
 Escribe un programa que imprima los 50 primeros numeros de la 
 sucesion de fibonacci empezando en 0-
@@ -30,7 +30,7 @@ siguiente es la suma de los dos anteriores
 (1 + 1)(2 + 1)(3 + 2)(3 + 4)(4 + 5)
 """
 
-#Es un número primo
+# Es un número primo
 """
 Escribe un programa que se encargue de comprobar si es un numero primo o no.
 Imprime los números primos entre 1 y 100
