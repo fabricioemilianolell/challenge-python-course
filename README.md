@@ -1,7 +1,7 @@
 Curso sobre Python - instructor moureDev 
 Desafios o challenge simples
 
-# el famoso fizz buzz
+# El famoso fizz buzz
 """
  * Escribe un programa que muestre por consola (con un print) los
  * números de 1 a 100 (ambos incluidos y con un salto de línea entre
@@ -37,7 +37,7 @@ Imprime los números primos entre 1 y 100
 numero natural mayor que uno que tiene dos divisores positivos. el mismo y el numero
 """
 
-# invertir una cadena
+# Invertir una cadena
 """
 Crea un programa que invierta el orden de una cadena de texto
 sin usar funciones propias del lenguaje que lo hagan de forma automática.
